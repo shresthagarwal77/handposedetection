@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/handposedetection/static/css/main.073c9b0a.css",
+    "main.js": "/handposedetection/static/js/main.27f41efb.js",
+    "index.html": "/handposedetection/index.html",
+    "main.073c9b0a.css.map": "/handposedetection/static/css/main.073c9b0a.css.map",
+    "main.27f41efb.js.map": "/handposedetection/static/js/main.27f41efb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.27f41efb.js"
+  ]
+}
